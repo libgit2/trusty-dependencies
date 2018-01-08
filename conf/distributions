@@ -1,0 +1,4 @@
+Codename: trusty
+Components: libgit2deps
+Architectures: amd64 source
+SignWith: E37CDF6B

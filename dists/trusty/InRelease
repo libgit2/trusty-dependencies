@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Codename: trusty
+Date: Thu, 19 Oct 2017 20:32:47 UTC
+Architectures: amd64
+Components: libgit2deps
+MD5Sum:
+ 4b609bfb662114a9ea36878277bbe65d 14606 libgit2deps/binary-amd64/Packages
+ da618050623f8a39bf860e1037cc8c6a 2662 libgit2deps/binary-amd64/Packages.gz
+ 45f253053684d4758d242a8f03e1c279 43 libgit2deps/binary-amd64/Release
+ 0b148801f7323ba8c83bdae878bfd5f0 2189 libgit2deps/source/Sources
+ fbfa3748b8dbe5b4d4bc35d5062632fb 1017 libgit2deps/source/Sources.gz
+ 7dd16879171ab9adb987bd98462abf21 44 libgit2deps/source/Release
+SHA1:
+ fe22b71f8bce59651b62975e14cb0e24d0538466 14606 libgit2deps/binary-amd64/Packages
+ 8dcdfc973fc6a602355498d4663f44bfada80702 2662 libgit2deps/binary-amd64/Packages.gz
+ 111e15d01f7c19f32d8517abbfc55b7c7ddd894b 43 libgit2deps/binary-amd64/Release
+ adcf63c2f0520f4d75495d3c989c3ed4e793e8c0 2189 libgit2deps/source/Sources
+ 0d578482cbf983499efb9d4c834365fe0b43fa0f 1017 libgit2deps/source/Sources.gz
+ fa304f6e7d19ee3a27149231ef1d97b3ab8007ec 44 libgit2deps/source/Release
+SHA256:
+ 0c3105ed3d3344031e4ec4931f185761fd4a350972b7b4b7872135e27557d43c 14606 libgit2deps/binary-amd64/Packages
+ 5c6b5ba21dcf5d550847dbc120f7967d1e2c473e19ab4968ada7818227e28693 2662 libgit2deps/binary-amd64/Packages.gz
+ 6862c53fdc8b536fc542b7482a5ffde6e0d1f4d9c890d2fd56d94a3a17f7940e 43 libgit2deps/binary-amd64/Release
+ 3fd117671e0db827f80b73cce2d512f657032a67d45e95579325f60f3d3918e6 2189 libgit2deps/source/Sources
+ b7c9d97fac5c3917fc0b9f8523b4c0665666e60c0ba84f5124f2edbe8612ed88 1017 libgit2deps/source/Sources.gz
+ c243900f8929c5e5edb10e87bd27034dadf7fbccf05530491c2ec5602ccf5df3 44 libgit2deps/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJZ6Qv9AAoJEFZWGHWZExzV4NcP/17GF+sAamz9ymGAshnR1PTc
+AzSuJMlYzUZ0otIvm0ZYwT+9lEBBmcqNFF6qM1rADjXwjARZeQTseroFbDpC5cYh
+A8XLjsmOnyZg3HvMJ9iRUWSeKOuFdjsf4DBOD0c3S+S+XI7m3YLWBiPcXzvrrN74
+TPpysfHUuTQaBE/tM2jnTZf2PH96xvCXxsdjD1mZJoo7O5zk2DP2fPd8Od4gK4YH
+7p1Rx/P+XiXyXuk+iE+RbdCMXid6NLSqIHMLs/BOrZi4fmq0MRlj7I+IxQHhMCMg
+CQ9VSx9Nw1v3Zdc4Dzy/ag6QjmAwZhI19bcNLNMW9xAis4bFPsyDiAOBOnlhAyhP
+kExthpG3QEDIA88xDtIesB7yU58VVTSd4sFRrVo3zDBhnTpGDM+jPGTqMSH7BLIM
+swEVOA3tSOPIs09Xd/WCPk4tYjLxNa8s/vSyucbjqLmUTBqM+ZqWlw5k0rhDqfPq
+fIA9JdlcHXjIJpJSPCD3NJfeFDTxDQz8I5Yz4RANVLdBHX+93CqnPyAKF8h47MJK
++pee0EV0B5Noroqyz8YF7KCCOxpbnJMzGplWE49YfaW8AD68iUh83Hx3OsA0ERFh
+G1qS5d+9eF+MjGjrUldqe3zYS7Q8uV9XMBn2knQUvryEQtnbU0QdkeT6skHJ8rGX
+/c4pezZOsAIdalDwhd0P
+=DbpY
+-----END PGP SIGNATURE-----
